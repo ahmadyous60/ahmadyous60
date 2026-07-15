@@ -95,16 +95,17 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmad-yousaf21/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ahamedyousaf115@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://wa.me/923021149591">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/ahmad-yousaf21/">
+    <img src="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" width="60" height="60"/>
+  </a>
+  <a href="mailto:ahamedyousaf115@gmail.com">
+    <img src="https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" width="60" height="60"/>
+  </a>
+  <a href="https://wa.me/923021149591">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/WhatsApp_Logo_green.svg/1280px-WhatsApp_Logo_green.svg.png" width="60" height="60"/>
+  </a>
 </p>
+
 
 ---
 

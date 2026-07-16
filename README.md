@@ -110,7 +110,7 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ahmad-yousaf&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+⭐ If you like my work, consider following me and checking out my repositories!
 </p>
 
 ---
